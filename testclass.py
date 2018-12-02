@@ -5,7 +5,7 @@ class testclass:
         print('instantiated with ' + str(self.x))
 
     def say_hi(self):
-        print('hi!')
+        print('hi! new PR')
 
     def get_x(self):
         return self.x
