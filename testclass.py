@@ -15,6 +15,4 @@ tmp = testclass(17)
 tmp.say_hi()
 print('x is ' + str(tmp.get_x()))
 
-print('x is ' + str(tmp.get_x()))
-
 
