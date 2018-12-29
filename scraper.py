@@ -49,4 +49,4 @@ list = html.findAll('div', attrs={'class':'teaser'})
 for it in list:
     title = it.findAll('span', attrs={'class':'headline'})
     print(title)
-    #print(it.text)
+    print(it.text)
