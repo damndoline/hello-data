@@ -1,7 +1,7 @@
 # hello-data
 
 ##### just trying out some random beginner stuff and using github with pycharm
-maybe ...
+maybe this even works from within the IDE...
 
 > test quote
 
