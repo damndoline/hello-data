@@ -1,8 +1,11 @@
 # hello-data
 
-##### just trying out some random beginner stuff and using github with pycharm
-maybe this even works from within the IDE...
+#### just trying out some random beginner stuff and using github with pycharm
+maybe this even works from within the IDE of the MBA M1...
 
+
+#### minor confusion here...
+quotes work with >...
 > test quote
 
 ---
